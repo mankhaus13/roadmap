@@ -11,14 +11,10 @@
             "id": "3d5b827af1c1aed5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_START_HERE.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "_START_HERE"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -94,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_START_HERE.md",
+                "file": "00-START-HERE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для _START_HERE"
+              "title": "Обратные ссылки для 00-START-HERE"
             }
           },
           {
@@ -113,12 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_START_HERE.md",
+                "file": "00-START-HERE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из _START_HERE"
+              "title": "Исходящие ссылки из 00-START-HERE"
             }
           },
           {
@@ -156,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_START_HERE.md",
+                "file": "00-START-HERE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура _START_HERE"
+              "title": "Структура 00-START-HERE"
             }
           }
         ]
@@ -185,14 +181,15 @@
   },
   "active": "3d5b827af1c1aed5",
   "lastOpenFiles": [
-    "stages/stage-4-job-search.md",
     "00-START-HERE.md",
+    "GIT_WORKFLOW.md",
+    "stages/stage-4-job-search.md",
+    "_START_HERE.md",
     "progress/notes.md",
     "progress/questions.md",
     "resources/templates/stage-template.md",
     "stages/stage-2-tech-interview.md",
     "stages/stage-1-testovoe.md",
-    "_START_HERE.md",
     "QUICK_START.md"
   ]
 }

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4ee9af13eecc8a5a",
+        "id": "eb228bd895cfe703",
         "type": "tabs",
         "children": [
           {
-            "id": "616249407b4fb148",
+            "id": "ab67cee758b7a4d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -184,11 +184,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "616249407b4fb148",
+  "active": "ab67cee758b7a4d2",
   "lastOpenFiles": [
     "GIT_WORKFLOW.md",
-    "stages/stage-1-testovoe.md",
     "README.md",
+    "stages/stage-1-testovoe.md",
     "stages",
     "progress/notes.md",
     "progress",
